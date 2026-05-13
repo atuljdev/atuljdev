@@ -138,7 +138,7 @@ const atulJadhav: Developer = {
 
 <img src="https://img.shields.io/badge/Scalable_Full_Stack-Apps-1f6feb?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/AI_Powered-Systems-8b5cf6?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Clean-Architecture-238636?style=for-the-badge&logo=architecture&logoColor=white" />
+<img src="https://img.shields.io/badge/Clean-Architecture-238636?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Backend-Engineering-da3633?style=for-the-badge&logo=nodejs&logoColor=white" />
 <img src="https://img.shields.io/badge/Performance-Optimization-f0883e?style=for-the-badge&logo=speedtest&logoColor=white" />
 <img src="https://img.shields.io/badge/Real_Time-Systems-bf8700?style=for-the-badge&logo=socket.io&logoColor=white" />
