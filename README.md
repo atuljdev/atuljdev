@@ -4,10 +4,6 @@
 
 # ⚡ Building Modern Software Systems
 
-<a href="https://github.com/atuljdev?tab=followers">
-<img src="https://img.shields.io/github/followers/atuljdev?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=1f6feb">
-</a>
-
 <a href="https://linkedin.com/in/atuljadhav1210">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
@@ -124,18 +120,6 @@ const atulJadhav = {
 </td>
 </tr>
 </table>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=atuljdev&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atuljdev&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" />
-
-</div>
 
 ---
 
