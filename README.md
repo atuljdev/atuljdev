@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Atul%20Jadhav&fontSize=48&fontColor=58a6ff&fontAlignY=35&desc=Software%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20AI%20%26%20Automation&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:161b22,100:1f6feb&text=Atul%20Jadhav&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20AI%20Automation&descAlignY=58&descSize=18&descColor=8b949e" />
 
 # ⚡ Building Modern Software Systems
 
