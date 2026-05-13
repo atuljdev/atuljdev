@@ -131,19 +131,19 @@ const atulJadhav = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=atuljdev&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=atuljdev&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atuljdev&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atuljdev&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 Contribution Activity
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atuljdev&theme=github-compact&hide_border=true&area=true"/>
+<img src="https://streak-stats.demolab.com?user=atuljdev&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
