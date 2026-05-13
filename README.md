@@ -1,59 +1,42 @@
-# Hi, I'm Atul Jadhav 👋
+<div align="center">
 
-### Software Developer | C# .NET | Full Stack Development | Automation
+# Atul Jadhav
 
-Passionate developer focused on building modern applications, scalable systems, automation tools, and clean UI experiences.
+### Software Developer • C# .NET • Full Stack Development • Automation
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Modern+Software+Systems;Full+Stack+%26+Desktop+Application+Developer;Focused+on+Automation+%26+Scalable+Applications;Passionate+About+Clean+UI%2FUX+Experiences" />
 
-## 🚀 About Me
+<br>
 
-- 💻 Full Stack & Desktop Application Developer
-- ⚡ Building modern software and automation systems
-- 🔥 Interested in Cybersecurity & Backend Systems
-- 🎨 Focused on clean UI/UX and performance
-- 📚 Constantly learning and improving
+<a href="https://github.com/atuljdev">
+    <img src="https://img.shields.io/github/followers/atuljdev?label=Followers&style=for-the-badge&color=181717&logo=github">
+</a>
 
----
+<a href="https://linkedin.com/in/atuljdev">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-## 🛠 Tech Stack
-
-### Languages & Frameworks
-- C#
-- .NET
-- JavaScript
-- HTML5
-- CSS3
-
-### Development
-- WinForms
-- Firebase
-- REST APIs
-- Git & GitHub
-
-### Areas of Interest
-- Automation
-- Web Applications
-- Desktop Applications
-- UI/UX Systems
-- Cybersecurity
+</div>
 
 ---
 
-## 📌 Current Focus
+# 🚀 About Me
 
-- Building scalable applications
-- Improving backend architecture
-- Creating modern UI systems
-- Learning advanced full stack development
+```csharp
+public class Developer
+{
+    public string Name = "Atul Jadhav";
+    public string Role = "Software Developer";
 
----
+    public string[] Skills =
+    {
+        "C# .NET",
+        "Full Stack Development",
+        "Automation",
+        "Desktop Applications",
+        "Modern UI Systems",
+        "Backend Development"
+    };
 
-## 🌐 Connect With Me
-
-- GitHub: https://github.com/atuljdev
-- LinkedIn: https://linkedin.com/in/atuljdev
-
----
-
-⭐ Always building, learning, and improving.
+    public string Focus = "Building scalable and efficient software systems";
+}
