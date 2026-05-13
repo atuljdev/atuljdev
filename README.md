@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Atul Jadhav 👋
 
-<!--
-**atuljdev/atuljdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | C# .NET | Full Stack Development | Automation
 
-Here are some ideas to get you started:
+Passionate developer focused on building modern applications, scalable systems, automation tools, and clean UI experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💻 Full Stack & Desktop Application Developer
+- ⚡ Building modern software and automation systems
+- 🔥 Interested in Cybersecurity & Backend Systems
+- 🎨 Focused on clean UI/UX and performance
+- 📚 Constantly learning and improving
+
+---
+
+## 🛠 Tech Stack
+
+### Languages & Frameworks
+- C#
+- .NET
+- JavaScript
+- HTML5
+- CSS3
+
+### Development
+- WinForms
+- Firebase
+- REST APIs
+- Git & GitHub
+
+### Areas of Interest
+- Automation
+- Web Applications
+- Desktop Applications
+- UI/UX Systems
+- Cybersecurity
+
+---
+
+## 📌 Current Focus
+
+- Building scalable applications
+- Improving backend architecture
+- Creating modern UI systems
+- Learning advanced full stack development
+
+---
+
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/atuljdev
+- LinkedIn: https://linkedin.com/in/atuljdev
+
+---
+
+⭐ Always building, learning, and improving.
